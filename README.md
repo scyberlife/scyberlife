@@ -8,7 +8,6 @@ I'm Sergei Beliaev, a back-end developer from Russia. I love to explore and lear
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scyberlife&theme=synthwave)](https://git.io/streak-stats)
 
 ```stl
-?height=300&width=500
 solid cube_corner
   facet normal 0.0 -1.0 0.0
     outer loop
@@ -40,3 +39,13 @@ solid cube_corner
   endfacet
 endsolid
 ```
+
+
+
+graph TD
+    A[Friend's Birthday] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D["Cool <br> Laptop"]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+
