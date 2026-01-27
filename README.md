@@ -17,6 +17,7 @@
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Vim](https://img.shields.io/badge/NeoVim-000000?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
