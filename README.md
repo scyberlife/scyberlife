@@ -1,16 +1,26 @@
-## Hi there 👋
+<br/>
 
-<!--
-**scyberlife/scyberlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ### Rust Developer | Backend Engineer
+  
+  *Crafting efficient, safe, and concurrent systems*
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Vim](https://img.shields.io/badge/NeoVim-000000?style=for-the-badge&logo=vim&logoColor=white)
+
+</div>
+
+<br/>
+
+---
