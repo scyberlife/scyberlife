@@ -14,7 +14,7 @@
 <div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Tokio](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Tokio&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=Tokio&logoColor=white)
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Vim](https://img.shields.io/badge/NeoVim-000000?style=for-the-badge&logo=vim&logoColor=white)
